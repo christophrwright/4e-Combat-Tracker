@@ -7,7 +7,7 @@
  
 
 --------------------
-\\\\   TO DO   //// 
+\\\\   TO DO   // 
 --------------------
 ** NEXT **
  * Learn how to create a GUI with the Java Swing Library
